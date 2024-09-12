@@ -14,6 +14,8 @@ import seaborn as sns
 from matplotlib import style
 import numpy as np
 
+
+# This is the plot
 columns = [
     "Country Name",
     "Mortality rate, infant (per 1,000 live births)",
