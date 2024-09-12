@@ -16,6 +16,7 @@ import numpy as np
 
 
 # This is the plot
+# 2+3
 columns = [
     "Country Name",
     "Mortality rate, infant (per 1,000 live births)",
